@@ -11,7 +11,7 @@ window.VIDEOS=[
 
 /* Photos: put files in the img folder (WebP or JPG, max 1800px wide). */
 window.PHOTOS=[
- {src:"img/photo-1.jpg",alt:"Describe what is in the photo",caption:"Caption, place, year"},
+ {src:"images/DSC00118.jpg",alt:"a kangaroo",caption:"a small brown kangaroo, zoo ammneville, 2026"},
  {src:"img/photo-2.jpg",alt:"Describe what is in the photo",caption:"Caption, place, year"},
  {src:"img/photo-3.jpg",alt:"Describe what is in the photo",caption:"Caption, place, year"}
 ];
