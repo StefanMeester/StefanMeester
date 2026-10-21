@@ -12,8 +12,8 @@ window.SITE={name:"Stefan Meester",role:"Student Video & Filmmaker",email:"50532
    text   : one or two sentences about the project. role: what you did.
    The Year filter is made from the date automatically. New years and tags appear as filters by themselves. */
 window.PROJECTS=[
- {title:"Project title one",date:"2026-03",type:"video",tags:["Short film","School"],video:{id:"aqz-KE-bpKQ"},role:"Camera, edit",text:"Two sentences about the idea and your role. Replace this sample video with your own."},
- {title:"Street portraits",date:"2026-01",type:"photo",tags:["Portrait"],thumb:"img/street-1.jpg",photos:[{src:"img/street-1.jpg",alt:"Describe the photo",caption:"Caption, place, 2026"},{src:"img/street-2.jpg",alt:"Describe the photo",caption:"Caption, place, 2026"}],text:"A series about people in my town."},
+ {title:"Marionet",date:"2026-10",type:"video",tags:["Short film","School"],video:{id:"aqz-KE-bpKQ"},role:"Camera, edit",text:"Two sentences about the idea and your role. Replace this sample video with your own."},
+ {title:"Marionet Bts foto's",date:"2026-10",type:"photo",tags:["Short film","School"],thumb:"://img/setfoto_s-Marionet-20.jpg",photos:[{src:"://img/setfoto_s-Marionet-20.jpg",alt:"Stefan staat achter de camera",caption:"Laatste opnamedag voor Marionet, Franeker, 2026"},{src:"img/street-2.jpg",alt:"Describe the photo",caption:"Caption, place, 2026"}],text:"A series about people in my town."},
  {title:"Interview project",date:"2025-11",type:"video",tags:["Interview","School"],video:{id:"aqz-KE-bpKQ"},role:"Camera, sound",text:"What you filmed, for whom, and what you learned."},
- {title:"Event photos",date:"2025-06",type:"photo",tags:["Event"],thumb:"img/event-1.jpg",photos:[{src:"img/event-1.jpg",alt:"Describe the photo",caption:"Caption, place, 2025"}],text:"Photos from a local event."}
+ {title:"Event photos",date:"2025-11",type:"photo",tags:["Event"],thumb:"img/event-1.jpg",photos:[{src:"img/event-1.jpg",alt:"Describe the photo",caption:"Caption, place, 2025"}],text:"Photos from a local event."}
 ];
