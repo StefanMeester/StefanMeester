@@ -1,5 +1,5 @@
 /* EDIT THIS FILE: it is the only place you change your name and your projects. */
-window.SITE={name:"Stefan Meester",role:"Student Video & Filmmaker",email:"505326@student.firda.nl",instagram:"https://instagram.com/stefan.meester.9/",linkedin:"https://www.linkedin.com/in/stefan-meester-042893391/"};
+window.SITE={name:"Stefan Meester",role:"Videographer in training",email:"you@example.com",instagram:"https://instagram.com/yourname",linkedin:"https://www.linkedin.com/in/yourname"};
 
 /* ADD A PROJECT = copy one block below, paste it at the top of the list, change the values. Do not forget the comma after }.
    title  : name shown on the thumbnail
